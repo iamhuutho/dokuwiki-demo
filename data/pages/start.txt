@@ -1,0 +1,27 @@
+====== Assoc. Prof. Quan Thanh Tho ======
+{{ :qttho:drtho.jpg?200x300}}
+
+**Assoc. Prof. Quan Thanh Tho**
+
+Dean, Faculty of Computer Science and Engineering
+
+Ho Chi Minh City University of Technology
+====== About ======
+
+Dr. Quan Thanh Tho is an Associate Professor in the Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology (HCMUT), Vietnam. He received his B.Eng. degree in Information Technology from HCMUT in 1998 and received Ph.D degree in 2006 from Nanyang Technological University, Singapore. His current research interests include Artificial Intelligence, Natural Language Processing, intelligent systems and formal methods. Currently, he is the Dean of the Faculty.
+
+
+====== Contact ======
+ 
+He can be contacted at
+
+Tel: (84-8) 8 647256 (Ext. 5839)
+
+Email: [[qttho@hcmut.edu.vn]] | [[qttho2011@gmail.com]]
+
+====== Links ======
+  * [[Research]]
+  * [[Publications]]
+  * [[Education]]
+  * [[Teaching]]
+  * [[Hobbies]]

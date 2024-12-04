@@ -1,0 +1,117 @@
+====== Research Interests ======
+  * Formal methods
+  * Program analysis/verification
+  * Intelligent Systems
+  * Social Computing
+  * Semantic Web
+  * Ontology Engineering
+  * Machine Learning/Data Mining
+  * Information Retrieval
+  * Natural Language Processing
+
+====== Research Group ======
+
+Dr. Quan Thanh Tho is currently leading a research group so-called URA (Unlimited Research group on AI), which aims at theorerical research and applications of AI. Our group includes some experienced researchers and numerous overseas consultants and collaborators in [[https://www.smu.edu.sg/|SMU]] (Singapore), [[http://www.univ-paris13.fr/|Paris 13]], [[http://www.comp.nus.edu.sg/|NUS]] (Singapore),[[http://www.ntu.edu.sg/|NTU]] (Singapore), [[http://www.epfl.ch/index.en.html|EPFL]] (Switzerland), [[http://www.labri.fr/|Labri ]] (France), [[http://www.jaist.ac.jp/|JAIST ]] (Japan), [[https://www.stanford.edu//|Stanford University]] (USA), [[https://www.jejunu.ac.kr/eng/index.htm//|Jeju National University]] (Korea). 
+
+We also collaborate with some industry partners including [[https://www.bosch.com.vn/|Bosch]], [[http://www.logigear.vn/|LoGiGear]], [[http://www.elarion.com/|LARION Computing]], [[http://ftri.fpt.edu.vn/|FPT Technology Research Institute]], [[http://www.younetco.com/|YouNet]], [[https://dena.com/intl/company/overview/|DeNA]], [[https://digi-texx.vn//|Digi Texx]], [[http://www.cyberlogitec.com.vn/|Cyber Logitec]], [[http://rever.com.vn/|Rever]], [[https://truongminhthinh.com/|Truong Minh Thinh]],[[https://www.kms-technology.com/|KMS Technology]], [[http://vietnamblockchain.asia/|Vietnam Blockchain Corporation]], [[https://indivisys.vn/|Individual Systems]], [[https://www.devup.vn/|DevUP]], [[https://www.controlunion.com/vietnam/|Control Union]], [[https://bioturing.com/|BioTuring]], [[https://ump.edu.vn/|University Medical Center, Ho Chi Minh City]],[[https://medinet.hochiminhcity.gov.vn/Default.aspx|Hochiminh City Department of Health]], [[https://youthdev.net/vi/|YouthDev]]  .
+
+
+Some research tools developed from our group:
+
+WSCOVER: A Tool for Automatic Composition and Verification of Web Services Using Heuristic-Guided Model Checking and Logic-Based Clustering http://www.cse.hcmut.edu.vn/wscover/
+
+BE-PUM: Binary Emulator for PUshdown Model generation: https://github.com/NMHai/BE-PUM
+
+Implementation of NSGA-II by Python: https://pypi.org/project/nsga-2/
+
+Using LCA (a logic-based extension of FCA) to analyze virus behaviours: http://marchgen.3forcom.info/
+
+An online tool for Vietnamese-Bahnaric translation: https://www.ura.hcmut.edu.vn/bahnar/nmt/, iOS and Android versions can be downloaded at : https://apps.apple.com/vn/app/d%E1%BB%8Bch-thu%E1%BA%ADt-ba-na/id6462193072?l=vi and https://play.google.com/store/apps/details?id=com.hcmut.bahnar&pli=1
+
+NAWAL: A self-supervised algorithm for graph alignment: https://drive.google.com/drive/folders/1hmcl4uW5cvzLy--TGeg-vlBI4Ca0j8W4?fbclid=IwAR0-Zs8qEz3aN_QZ_CZKHotvtM8gHJxBhAvPth0B0xcxMTubX9UXW-3_OC4
+
+URA-LLaMa: Vietnamese large language models fine-tuned from LLaMa-2 https://huggingface.co/ura-hcmut 
+
+====== Projects ======
+  * **Developing efficient methods for mining high utility itemsets on hierarchical databases** - Funded by VNU-HCM (2023-2025) - B2023-28-02
+  * **An AI System for Monitoring and Prediction of Anomalies in 4G Radio Network** - Funded by VNPT, 2022-2023
+  * **A multivariate time-series deep-learning model for an online powermetry prediction** (PI) Funded by VNU-HCM (2021-2023) - C2021-20-13      
+  * **Intelligent Chatbot for Real Estate Domain** - Funded by Hung Thinh Group, 2021-2022
+  * **Human and Algorithms for Detecting and Counter-attacking Fake Medical News** - Collaborated with EPFL (Switzerland) - Funded by Nafosted (PI), 2021-2023
+  * **A research on Artificial Intelligence methodology to support advanced analytic and geological, geophysical, and production data interpretation to improve the efficiency of Hai Thach – Moc Tinh gas condensate field operation - Lot 05-2; 05-3, Bien Dong, Vietnam** -  Key National Project (2021-2024)
+  * **Computer Vision for Japanese Water Clock** -  funded by Cube System Vietnam (2021)
+  * **Intelligent UI Design System** -  funded by KMS (2021)
+  * **Development of a Vietnamese- Bahnaric machine translation and Bahnaric text-to-speech system (all dialects)** - KC-4.0-29/19-25 (PI) - funded by MOST (2021-2024)
+  * **Development of an AI system for automatic machine translation and  text-to-speech system for the Ba Na Kriem language** - funded by Binh Dinh Province (2021-2024)
+  * **Intelligent chatbot systems** (PI) - - Funded by Truong Minh Thinh Corp. (PI), 2021-2022
+  * **An intelligent system to analyze real estate images** (PI) - - Funded by Rever (PI), 2021-2022
+  * **An intelligent system to real-time monitor real estate market** (PI) - - Funded by Hung Thinh group (PI), 2020-2021
+  * **Recognizing modern Japanese magazines by combining Deep Learning with language models** (PI) - - Joint research project with ROIS-DS Center for Open Data in the Humanities (CODH), Japan, 2020-2021
+  * **Intelligent Systems** (PI) - - Funded by CyberLogiTech (PI), 2021-2022 
+  * **Development of an AI system integrating petroleum geological data to assess oil and gas prospect** (KC.01 program), 2020-2022
+  * **Smart Contract Verification by Static Analysis** (PI), Funded by HCMUT (2019-2020) - To-KHMT-2019-08
+  * **Emerging Big Data/AI and IoTs/5G technologies for smart cities** (Co-PI), Funded by Vingroup Innovation Foundation (VINIF) (2019-2022) - VINIF.2019.DA01
+  * **A Blockchain-based Logistics System** (PI) Funded by Entropy JVN 
+  * **Combination of Object Extraction and Machine Learning for Aspect-based Sentiment Analysis on Vietnamese Documents** (PI) Funded by VNU-HCM (2018) - B2018-20-07  
+  * **Intelligent Recommender Systems for E-Commerce Applications with Big Data Analytics** - Funded by NAFOSTED (2018) 
+  * **Pilot study on flight delay using Machine Learning (PI)** - Funded by NTU (Singapore) (2017) - https://tuoitre.vn/nguoi-viet-nghien-cuu-tri-chuyen-bay-tre-cho-singapore-20171223084432904.htm
+  * **Using formal methods for detection and classification of packed malware** (PI) Funded by NAFOSTED (2016) - 102.01-2015.16 
+  * **Vietnamese Co-reference Resolution in Aspect-based Sentiment Analysis** (PI) Funded by VNU-HCM (2016) - C2016-20-36 
+  * **Modeling and Verification of Wireless Sensor Networks using Petri Nets** (co-PI) Funded by HCMUT (2016) - TNCS-2015-KHMT-38 
+  * **A Verification Tool for Wireless Sensor Networks using Advanced Petri Nets** (co-PI) - (2016) - TSÐH-2015-KHMT-56
+  * **Development of Security Policy for Enterprise** (PI) - Funded by EMCAS (2015)
+  * **Pushdown Model Generation from Binaries** (PI) - Funded by HCMUT (2015) - TNCS-2015-KHMT-06 (co-PI)
+  * **Intelligent Tourism Recommendation System** (PI) - Funded by Airlink (2015-2016)  
+  * **Efficient verification of Petri Nets using symbolic observation graph** (PI) - Funded by HCMUT (2015) - T-KHMT-2015-31 (participating)
+  * **A hybrid approach for constructing control flow graph from binary code** (PI) - Joint research project with JAIST (Japan), funded by VNU-HCM (2013)
+  * **Compositional Analysis of Timed Systems** (PI) - Joint research project with University of Paris 13, France and NUS, Singapore (2013-2014)
+  * **Virus Detection Using Formal Methods** (PI) - funded by HCMUT (2012-2013) - TNCS-2012-KHMT-05 
+  * **Query-Answering and Information Retrieval Techniques for Vietnamese Digital Libraries** (co-PI with Prof. Phan Thi Tuoi)- funded by VNU-HCMUT (2012-2013) 
+  * **Logic Test-case Generation** (PI)- funded by HCMUT (2012-2013)
+  * **Development of An Online System for Static Verification** (PI) - funded by HCM-VNU (2011-2012)
+  * **Program Analysis and Verification for e-Learning** (PI) - funded by HCM-VNU and World Bank (2009-2011)
+  * **Information Extraction and Integration on Vietnamese Semantic Web** - National university key project funded by HCM-VNU (2007-2009)
+  * **Advanced Methods for Knowledge Representation and Integration with Applications** -  Joint research project with JAIST, Japan and University of Bristol, UK (2006-2008).
+  * **Interactive System for e-Learning Assistance using Clustering and Information Retrieval Techniques** (PI) - funded by HCMUT (2008)
+
+ =====
+====== International Exposure ======
+
+I was invited as visiting fellow at the following institutions:
+
+  * [[https://nus.edu.sg/|NUS]] (Singapore), Hosted by [[https://tanmnguyen89.github.io/|Prof. Tan Nguyen]], 2024.
+  * [[https://http://www.oum.edu.my/|OUM ]] (Malaysia), Viva Voce committee, 2017.
+  * [[https://lipn.univ-paris13.fr/en/|LIPN ]] (France), Hosted by [[https://lipn.univ-paris13.fr/~petrucci/index-en.html/|Prof. Laure Petrucci]] and [[http://lipn.univ-paris13.fr/~andre/|Prof. Étienne André]], 2015.
+  * [[http://shonan.nii.ac.jp/shonan/report/no-2015-4/|Shonan Meeting]] (Japan), 2015
+  * [[http://www.jaist.ac.jp/index-e.html/|JAIST ]] (Japan), Hosted by [[http://www.jaist.ac.jp/~mizuhito/|Prof. Mizuhito Ogawa]], 2013.
+  * [[http://www.jaist.ac.jp/index-e.html/|JAIST ]] (Japan), Hosted by [[http://www.jaist.ac.jp/~mizuhito/|Prof. Mizuhito Ogawa]], 2012.
+  * [[http://www.nus.edu.sg/|NUS ]] (Singapore), Hosted by [[http://www.comp.nus.edu.sg/~dongjs/|Prof. Dong Jin-Song]], 2012.
+  * [[http://www.buffalo.edu//|University at Buffalo ]] (USA), Hosted by [[http://www.cse.buffalo.edu/~hungngo/|Prof. Hung Q. Ngo]], 2011.
+  * [[http://www.nus.edu.sg/|NUS ]] (Singapore), Hosted by [[http://www.comp.nus.edu.sg/~chinwn/|Prof. Chin Wei-Ngan]], 2011.
+  * [[http://www.labri.fr/|LaBRI ]] (France), Hosted by [[http://dept-info.labri.fr/~dicky/|Prof. Anne Dicky]] and [[http://www.labri.fr/perso/ly/|Prof. Olivier Ly]], 2011.
+  * [[http://www.epfl.ch/|EPFL ]] (Switzerland), Hosted by [[http://people.epfl.ch/viktor.kuncak/|Prof. Viktor Kuncak]], 2011.
+  * [[http://www.epfl.ch/|EPFL ]] (Switzerland), Hosted by [[http://people.epfl.ch/viktor.kuncak/|Prof. Viktor Kuncak]], 2010.
+  * [[http://www.nus.edu.sg/|NUS ]] (Singapore), Hosted by [[http://www.comp.nus.edu.sg/~khoosc/|Prof. Khoo Siau Cheng]], 2008.
+  * [[http://www.jaist.ac.jp/|JAIST ]] (Japan), Hosted by [[http://www.jaist.ac.jp/~huynh/|Prof. Huynh Van Nam]], 2006.
+====== Professional Activities ======
+
+Chairs:
+
+  * ACIS 2014
+  * MIWAI 2012
+
+PC Member:
+
+  * ACIS 2014
+  * CISIM 2014
+  * ACOMP 2014
+  * KSE 2014
+  * FSFMA 2014
+  * MIWAI 2014
+  * ATVA 2013
+  * ACOMP 2013
+  * APSEC 2012
+  * MIWAI 2013
+  * MIWAI 2012
+  * APSEC 2011
+  * MIWAI 11

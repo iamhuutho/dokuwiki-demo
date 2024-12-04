@@ -1,0 +1,49 @@
+## Disable Indexes and MultiViews
+## Symlinks might be needed for URL rewriting, make sure this is enabled
+Options -Indexes -MultiViews +FollowSymLinks
+
+## Protect sensitive files (htaccess, README, COPYING, VERSION)
+<Files ~ "^([\._]ht|README$|VERSION$|COPYING$)">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</Files>
+
+## Block access to git directories
+<IfModule alias_module>
+    RedirectMatch 404 /\.git
+</IfModule>
+
+## Enable URL Rewriting for Pretty URLs (make sure 'userewrite' is set in DokuWiki configuration)
+RewriteEngine on
+
+# Rewrite rules for fetching media files
+RewriteRule ^_media/(.*)              lib/exe/fetch.php?media=$1  [QSA,L]
+# Rewrite rule for fetching media detail files
+RewriteRule ^_detail/(.*)             lib/exe/detail.php?media=$1  [QSA,L]
+# Rewrite rule for exporting content
+RewriteRule ^_export/([^/]+)/(.*)     doku.php?do=export_$1&id=$2  [QSA,L]
+
+# Default rule to go to doku.php
+RewriteRule ^$                        doku.php  [L]
+
+# Only process the following if the requested file is not an actual file or directory
+RewriteCond %{REQUEST_FILENAME}       !-f
+RewriteCond %{REQUEST_FILENAME}       !-d
+RewriteRule (.*)                      doku.php?id=$1  [QSA,L]
+
+# Redirect the default index.php to doku.php
+RewriteRule ^index.php$               doku.php
+
+## Optional: Set the RewriteBase if DokuWiki is installed in a subfolder
+## Uncomment and modify the following line if your DokuWiki is under a subfolder
+# RewriteBase /dokuwiki
+
+## If you enable XML-RPC, ensure HTTPS is used for security
+## Uncomment the following rules if you want to force HTTPS for XML-RPC
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^lib/exe/xmlrpc.php$      https://%{SERVER_NAME}%{REQUEST_URI} [L,R=301]
