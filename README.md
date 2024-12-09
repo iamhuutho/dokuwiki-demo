@@ -33,6 +33,14 @@ Once the application is up and running, open your web browser and go to the foll
 http://localhost:8081
 ```
 ### 4. Stopping the Application
+You should log in to be able to edit the contents of the application:
+```bash
+username: admin
+password: 1234
+```
+
+
+### 5. Stopping the Application
 To stop the application and remove the running containers, use the following command:
 ```bash
 docker-compose down
